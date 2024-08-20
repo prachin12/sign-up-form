@@ -88,3 +88,8 @@ form div span{
     margin-top:20px;
     
 }
+
+input:focus{
+    box-shadow: 2px 2px 2px blue;
+    
+}
